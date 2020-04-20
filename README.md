@@ -2,7 +2,7 @@
 
 Scrape using beautifulsoup library of python
 
-#what field scrapped?-
+# what field scrapped ?
  - Title
  - Url of source
  - Image Url
